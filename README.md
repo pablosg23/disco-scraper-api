@@ -8,7 +8,7 @@ Crear entorno virtual:
 
 Activar el entorno:
 
-`source virtualenv/bin/activate`
+`source virtualenv\activate`
 
 Instalar las dependencias:
 
