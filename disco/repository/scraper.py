@@ -13,6 +13,13 @@ with open("datos.json", "w") as f:
     json.dump(dict1, f)
 
 def write_json(new_data, filename='datos.json'):
+    """
+    Crea el archivo datos.json que se utilizará para subirlo luego a la base de datos
+
+    Args:
+        new_data (str): datos a agregar al json
+        filename (str, optional): Nombre de archivo. Defaults to 'datos.json'.
+    """    
     with open(filename,'r+') as file:
         file_data = json.load(file)
         file_data["records"].append(new_data)
@@ -20,6 +27,16 @@ def write_json(new_data, filename='datos.json'):
         json.dump(file_data, file, indent = 4)
 
 def scraper(categoria='electro/informatica'):
+    """
+    Esta funcion utiliza selenium webdriver para cargar el sitio,
+    buscar el botón "Mostrar más" mientras hace scroll down para asegurar
+    que se hagan visibles todos los productos y luego de cargar todas las paginas
+    ingresa al elemento que contiene todos los productos para iterar uno por uno
+    a fin de cargarlos a datos.json 
+
+    Args:
+        categoria (str, optional): Se pueden ingresar otras categorias. El default es 'electro/informatica'.
+    """    
     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
     driver.implicitly_wait(10)
 
@@ -65,6 +82,10 @@ def scraper(categoria='electro/informatica'):
     return 'Done'
 
 def to_db():
+    """
+    Se cargan los datos a a la base de datos con sqlite3
+    Primero elimina los datos de la tabla para luego cargar los nuevos
+    """    
     connection = sqlite3.connect('apidb.db')
     cursor = connection.cursor()
     cursor.execute('DELETE FROM productos')
