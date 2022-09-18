@@ -1,0 +1,316 @@
+{
+    "records": [
+        {
+            "id": 1,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Len 15.6' Gaming 3 R5 16g 512g",
+            "precio": "$259.999"
+        },
+        {
+            "id": 2,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Lenovo 15.6' Ip 3 3020 4g 500g",
+            "precio": "$102.999"
+        },
+        {
+            "id": 3,
+            "marca": "LENOVO",
+            "descripcion": "Tablet Lenovo 10.1 Tab M10 Hd 4g 64gb",
+            "precio": "$59.999"
+        },
+        {
+            "id": 4,
+            "marca": "SAMSUNG",
+            "descripcion": "Monitor Samsung 24' Fhd Lf24t350fhlczb",
+            "precio": "$54.599"
+        },
+        {
+            "id": 5,
+            "marca": "HP",
+            "descripcion": "Cartucho De Tinta Hp 662 Negra Original",
+            "precio": "$3.499"
+        },
+        {
+            "id": 6,
+            "marca": "HP",
+            "descripcion": "Cartucho De Tinta Hp 664 Negra Original",
+            "precio": "$3.499"
+        },
+        {
+            "id": 7,
+            "marca": "HP",
+            "descripcion": "Cartucho De Tinta Hp 664 Tricolor Original",
+            "precio": "$3.499"
+        },
+        {
+            "id": 8,
+            "marca": "HP",
+            "descripcion": "Cartucho De Tinta Hp 662 Tricolor Original",
+            "precio": "$3.499"
+        },
+        {
+            "id": 9,
+            "marca": "HP",
+            "descripcion": "Cartucho De Tinta Hp 667 Tricolor",
+            "precio": "$3.499"
+        },
+        {
+            "id": 10,
+            "marca": "LOGITECH",
+            "descripcion": "Mouse Inal\u00e1mbrico Logitech Wirm190blackgrey",
+            "precio": "$1.785"
+        },
+        {
+            "id": 11,
+            "marca": "NOGANET",
+            "descripcion": "Mouse Noganet Mini Retractil Ngm-418rs",
+            "precio": "$749"
+        },
+        {
+            "id": 12,
+            "marca": "SAMSUNG",
+            "descripcion": "Monitor Samsung 22' Fhd Lf22t350fhlczb",
+            "precio": "$50.599"
+        },
+        {
+            "id": 13,
+            "marca": "LENOVO",
+            "descripcion": "Tablet Lenovo 8' Tab M8 3g 32gb",
+            "precio": "$37.999"
+        },
+        {
+            "id": 14,
+            "marca": "LENOVO",
+            "descripcion": "Tablet Lenovo 11' Yoga Tab 11 4g 128gb",
+            "precio": "$89.999"
+        },
+        {
+            "id": 15,
+            "marca": "SAMSUNG",
+            "descripcion": "Monitor Samsung 27' Fhd Lf27t350fhlczb",
+            "precio": "$65.999"
+        },
+        {
+            "id": 16,
+            "marca": "ACER",
+            "descripcion": "Notebook Acer Aspire 5 15.6 I3 4g 1tb Black",
+            "precio": "$111.999"
+        },
+        {
+            "id": 17,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Teclado Gamer Constrictor Strigilatus 105 Tecl",
+            "precio": "$5.399"
+        },
+        {
+            "id": 18,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Auricular Gamer Constrictor Imperator Rgb",
+            "precio": "$8.999"
+        },
+        {
+            "id": 19,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Lenovo 15.6' Ip 3 I3 4g 256g",
+            "precio": "$139.999"
+        },
+        {
+            "id": 20,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Len 16' Legion 5 Pro R5 16g 512",
+            "precio": "$389.999"
+        },
+        {
+            "id": 21,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Lenovo 14' Yoga 7 I7 16g 512g",
+            "precio": "$399.999"
+        },
+        {
+            "id": 22,
+            "marca": "LENOVO",
+            "descripcion": "Tablet Lenovo 11' Tab P11 4g 64gb",
+            "precio": "$71.999"
+        },
+        {
+            "id": 23,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Len 16' Ip 5 Pro R9 32g 512g",
+            "precio": "$419.999"
+        },
+        {
+            "id": 24,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Lenovo 14' Ip 3 R7 12g 256g",
+            "precio": "$209.999"
+        },
+        {
+            "id": 25,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Len 15.6' Legion 5 R5 16g 512g",
+            "precio": "$389.999"
+        },
+        {
+            "id": 26,
+            "marca": "LENOVO",
+            "descripcion": "Notebook Lenovo 14' Yoga 7 R5 8g 512g",
+            "precio": "$289.999"
+        },
+        {
+            "id": 27,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Mouse Gamer Constrictor Amarali Rgb 7 Botones",
+            "precio": "$1.599"
+        },
+        {
+            "id": 28,
+            "marca": "LENOVO",
+            "descripcion": "Tablet Lenovo 11' Tab P11 4g 128gb",
+            "precio": "$99.999"
+        },
+        {
+            "id": 29,
+            "marca": "CANON",
+            "descripcion": "Impresora Inalabrica C/pantalla Lcd Canon G31",
+            "precio": "$69.699"
+        },
+        {
+            "id": 30,
+            "marca": "LOGITECH",
+            "descripcion": "Mouse Logitech M110 Silent Blue",
+            "precio": "$945"
+        },
+        {
+            "id": 31,
+            "marca": "LOGITECH",
+            "descripcion": "Mouse Inal\u00e1mbrico Logitech Wirm190blackred",
+            "precio": "$1.785"
+        },
+        {
+            "id": 32,
+            "marca": "TPLINK",
+            "descripcion": "Router Wifi Tp-link Tl-wr940n",
+            "precio": "$7.499"
+        },
+        {
+            "id": 33,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Mouse Gamer Constrictor Striatus Rgb 8 Botones",
+            "precio": "$4.899"
+        },
+        {
+            "id": 34,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Auricular Gamer Constrictor Subflavus",
+            "precio": "$5.999"
+        },
+        {
+            "id": 35,
+            "marca": "CANON",
+            "descripcion": "Impresora Inalabrica C/pantalla Lcd Canon G41",
+            "precio": "$84.699"
+        },
+        {
+            "id": 36,
+            "marca": "CANON",
+            "descripcion": "Impresora C/pantalla Lcd Canon Pixma G2110",
+            "precio": "$63.999"
+        },
+        {
+            "id": 37,
+            "marca": "TPLINK",
+            "descripcion": "Router Tp Link 2 Antenas",
+            "precio": "$5.999"
+        },
+        {
+            "id": 38,
+            "marca": "LOGITECH",
+            "descripcion": "Teclado Logitech K480 Wireless Multidispositivo-k480 Wireless Multidispositivo-cja-un.-1",
+            "precio": "$7.925,69"
+        },
+        {
+            "id": 39,
+            "marca": "TPLINK",
+            "descripcion": "Router Wifi Tp-link Tl-wr820n",
+            "precio": "$4.999"
+        },
+        {
+            "id": 40,
+            "marca": "TPLINK",
+            "descripcion": "Router Wifi Tp-link Mw305r",
+            "precio": "$3.599"
+        },
+        {
+            "id": 41,
+            "marca": "TPLINK",
+            "descripcion": "Router Wifi Tp-link Mw325r",
+            "precio": "$3.999"
+        },
+        {
+            "id": 42,
+            "marca": "TPLINK",
+            "descripcion": "Router Wifi Tp-link Tl-wr841hp",
+            "precio": "$12.999"
+        },
+        {
+            "id": 43,
+            "marca": "GENIUS",
+            "descripcion": "Numpad Genius 100 Usb",
+            "precio": "$2.599"
+        },
+        {
+            "id": 44,
+            "marca": "GENIUS",
+            "descripcion": "Tecladomouse Wirel. Genius Km-8200",
+            "precio": "$5.499"
+        },
+        {
+            "id": 45,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Mouse Gamer Constrictor Orophias Rgb 7 Botones",
+            "precio": "$3.099"
+        },
+        {
+            "id": 46,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Mouse Pad Gamer Constrictor",
+            "precio": "$999"
+        },
+        {
+            "id": 47,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Teclado Gamer Constrictor Jayakari Mec\u00e1nico",
+            "precio": "$10.499"
+        },
+        {
+            "id": 48,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Silla Gamer Constrictor Superciliosa Eco Cuero",
+            "precio": "$105.999"
+        },
+        {
+            "id": 49,
+            "marca": "CONSTRICTOR",
+            "descripcion": "Silla Gamer Constrictor Monensis Alta Resisten",
+            "precio": "$76.999"
+        },
+        {
+            "id": 50,
+            "marca": "CANON",
+            "descripcion": "Botella De Tinta Magenta Canon Gi-190 Bk",
+            "precio": "$3.199"
+        },
+        {
+            "id": 51,
+            "marca": "CANON",
+            "descripcion": "Botella De Tinta Yellow Canon Gi-190 Bk",
+            "precio": "$3.199"
+        },
+        {
+            "id": 52,
+            "marca": "CANON",
+            "descripcion": "Botella De Tinta Cyan Canon Gi-190 Bk",
+            "precio": "$3.199"
+        }
+    ]
+}
