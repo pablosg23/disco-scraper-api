@@ -8,7 +8,7 @@ Crear entorno virtual:
 
 Activar el entorno:
 
-`source virtualenv\activate`
+`virtualenv\Script\activate`
 
 Instalar las dependencias:
 
